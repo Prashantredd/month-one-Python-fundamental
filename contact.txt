@@ -1,0 +1,13 @@
+Alice Johnson,9876543210,alice.johnson@gmail.com
+Bob Smith,9123456780,bob.smith@gmail.com
+Charlie Davis,9988776655,charlie.davis@gmail.com
+David Miller,9001122334,david.miller@gmail.com
+Eva Brown,8800554433,eva.brown@gmail.com
+Frank Harris,9911223344,frank.harris@gmail.com
+Grace Lee,9812345678,grace.lee@gmail.com
+Helen Clark,9723456781,helen.clark@gmail.com
+Ian Wright,9634567890,ian.wright@gmail.com
+Julia Adams,9545678901,julia.adams@gmail.com
+rolex,6302199648,prashu@gamil.com
+prashu,6302199648,prasja@gamil.com
+hello,7875857,prasaad@gamil.com
